@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1,Demovibes
+http://pmaster.no:9000/necta
+
+#EXTINF:-1,Radcap Techno
+http://79.120.77.11:8002/techno
+
+#EXTINF:-1,Radcap Goa
+http://79.120.39.202:8002/goatrance
+
+#EXTINF:-1,Dubstep.fm
+http://stream.dubstep.fm/256aac
+
+#EXTINF:-1,Techno.fm
+https://stream.techno.fm/radio1-320k.mp3
+
+#EXTINF:-1,Intense
+https://secure.live-streams.nl/flac.flac
+
+#EXTINF:-1,Party Vibe
+http://94.130.242.5:8046/stream
