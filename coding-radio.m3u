@@ -26,3 +26,15 @@ https://secure.live-streams.nl/flac.flac
 
 #EXTINF:-1,Party Vibe
 http://94.130.242.5:8046/stream
+
+#EXTINF:-1,SomaFM: The Trip
+http://ice4.somafm.com/thetrip-128-aac
+
+#EXTINF:-1,SomaFM: Dubstep
+http://ice4.somafm.com/dubstep-128-aac
+
+#EXTINF:-1,SomaFM: Drone Zone
+http://ice4.somafm.com/dronezone-128-aac
+
+#EXTINF:-1,SomaFM: Vaporwaves
+http://ice4.somafm.com/vaporwaves-128-aac
