@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1,Demovibes
-http://pmaster.no:9000/necta
-
 #EXTINF:-1,DNB Radio
 http://trace.dnbradio.com:8000/dnbradio_main.mp3
 
 #EXTINF:-1,DNB Radio Darkstep
 http://trace.dnbradio.com:8000/dnbradio_darkstep.mp3
+
+#EXTINF:-1,Demovibes
+http://pmaster.no:9000/necta
 
 #EXTINF:-1,Radcap Techno
 http://79.120.77.11:8002/techno
