@@ -62,3 +62,21 @@ http://trance-high.rautemusik.fm/
 
 #EXTINF:-1,Techno4ever
 http://tunein.t4e.dj/main/dsl.pls
+
+#EXTINF:-1,SECTOR Space
+http://89.223.45.5:8000/space-flac
+
+#EXTINF:-1,SECTOR Progressive
+http://89.223.45.5:8000/progressive-flac
+
+#EXTINF:-1,Jazz
+https://mscp3.live-streams.nl:8342/jazz-high.aac
+
+#EXTINF:-1,Hi On Line Jazz Radio
+http://mediaserv38.live-streams.nl:8006/stream
+
+#EXTINF:-1,Jazz Lounge
+http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
+
+#EXTINF:-1,Linn Jazz
+http://89.16.185.174:8000/autodj
